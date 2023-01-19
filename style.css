@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background: #0f0f0f;
+}
+
+header, footer{
+    padding: 20px 0;
+    background-color: #f0f0f0;
+}
+main{
+    display: flex;
+    color: #fff;
+    justify-content: space-around;
+    padding: 50px 0;
+}
