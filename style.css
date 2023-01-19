@@ -15,7 +15,6 @@ header, footer{
     font-size: 2rem;
     background-color: #f0f0f0;
 }
-
 main{
     align-items: center;
     height: 80vh;
@@ -23,6 +22,4 @@ main{
     color: #fff;
     justify-content: space-around;
     padding: 50px 0;
-    display: grid;
-    grid-template-columns: 1fr 2fr;
 }
