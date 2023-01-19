@@ -6,13 +6,18 @@
 
 body{
     background: #0f0f0f;
+    text-align: center;
 }
 
 header, footer{
     padding: 20px 0;
+    height: 10vh;
+    font-size: 2rem;
     background-color: #f0f0f0;
 }
 main{
+    align-items: center;
+    height: 80vh;
     display: flex;
     color: #fff;
     justify-content: space-around;
